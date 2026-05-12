@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.positai
+/boot/data
+/boot/library
+/boot/software
+/data
+/model
+/output
+/report
+*.Rproj
+.Rproj.user
