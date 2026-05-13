@@ -9,11 +9,11 @@
 # library(R.utils)
 # library(sf)
 library(shiny)
-# library(shinycssloaders)
+library(shinycssloaders)
 # library(shinyjs)
 # library(stringr)
 # library(tidyverse)
-library(yaml)
+# library(yaml)
 
 source("./app_helpers.R")
 source("./app_stations.R")
@@ -21,7 +21,7 @@ source("./app_annual_indicators.R")
 source("./app_assessment_indicators.R")
 source("./app_assessment.R")
 glossary <- readRDS("./app/glossary.rds")
-station_configuration <- read_yaml("./app/stations_config.yml")
+#station_configuration <- read_yaml("./app/stations_config.yml")
 
 ui <- tagList(
   tags$script(HTML("
