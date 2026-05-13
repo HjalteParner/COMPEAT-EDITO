@@ -1,0 +1,12 @@
+leaflet
+leaflet.extras
+R.methodsS3
+R.oo
+R.utils
+sf
+shiny
+shinycssloaders
+shinyjs
+stringr
+tidyverse
+yaml
