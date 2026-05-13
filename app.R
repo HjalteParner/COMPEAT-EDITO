@@ -12,7 +12,7 @@ library(shiny)
 library(shinycssloaders)
 # library(shinyjs)
 # library(stringr)
-# library(tidyverse)
+library(tidyverse)
 # library(yaml)
 
 source("./app_helpers.R")
