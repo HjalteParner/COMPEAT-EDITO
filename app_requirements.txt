@@ -1,3 +1,7 @@
+bslib
+data.table
+DT
+htmltools
 leaflet
 leaflet.extras
 R.methodsS3
